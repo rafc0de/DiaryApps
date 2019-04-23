@@ -56,7 +56,7 @@ public class DetailNotesActivity extends AppCompatActivity {
                 "1",
                 "Lost Paradise",
                 "Lorem ipsum simdolor amet",
-                "https://t-ec.bstatic.com/images/hotel/max1024x768/136/136201154.jpg",
+                "https://media-cdn.tripadvisor.com/media/photo-w/11/60/c2/a8/photo6jpg.jpg",
                 Tools.getCurrentDateISO8601());
     }
 
